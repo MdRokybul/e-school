@@ -2,6 +2,9 @@
     padding-bottom: 50px;
     background-color: #F8F9FA;
 }
+.logo{
+    width: 155px;
+}
 .nav-link{
     padding-left: 1rem !important;
     padding-right: 1rem !important;
@@ -129,4 +132,11 @@
 }
 #footer p{
     padding: 30px;
+}
+
+@media only screen and (max-width:575px){
+    .footer-list{
+        text-align: center;
+        padding-left: 0px;
+    }
 }
