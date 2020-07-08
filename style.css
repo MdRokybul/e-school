@@ -1,0 +1,132 @@
+.top-background{
+    padding-bottom: 50px;
+    background-color: #F8F9FA;
+}
+.nav-link{
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+    color: black !important;
+}
+.sign-in-button{
+    background-color: #21B573;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    color: white !important;
+}
+
+ .all-button{    /*This is for all button */
+    background-color: #21B573;
+    border: none;
+    padding: 9px 20px;
+    border-radius: 25px;
+    color: white;
+}
+
+.title-underline{
+    width: 100px;
+    height: 10px;
+    border-radius: 10px;background-color: orange;
+}
+.banner-left h6{
+    color: #FD511A;
+}
+.banner-left h1{
+    font-weight: 900;
+    font-size: 50px;
+}
+.banner-left span{
+    color: #21B573;
+}
+.banner-left p{
+    color: #6C6B6B;
+}
+.section-margin{
+    margin-bottom: 100px;
+}
+.card{
+    padding-top: 30px;
+    margin: 20px;
+    border: none;
+    background-color: #F8FFFB;
+}
+.hover-background:hover{
+    box-shadow: 0px 15px 25px 1px grey;
+    background-color: white;
+}
+.icon-size{
+    width: 25px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card-footer p{
+    margin-bottom: 0px;
+}
+.course-background{
+    background-color: white;
+    padding: 0px;
+    box-shadow: 0px 15px 20px 1px gray;
+    border-radius: 20px;
+}
+
+.course-image{
+    padding: 20px 20px 0px 20px;
+}
+
+#testimonial{
+    background-image: url("images/Photos/background.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.testimonial-image{
+    width: 100%;
+    height: 100%;
+}
+
+.testimonial-background{
+    background-color: transparent;
+}
+
+.subscribe{
+    padding: 25px;
+    margin-bottom: 50px;
+}
+.subscribe span{
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+.subscribe-mail-icon{
+    width: 40px;
+}
+.subscribe input{
+    margin: 10px 0px 10px 0px;
+    border-radius: 10px;
+}
+.subscribe-background{
+    padding: 25px;
+    background-image: linear-gradient(to right, #FFD25F 0%, #f5b515 100%);
+    border-radius: 20px;
+    box-shadow: 0px 10px 15px 1px gray;
+}
+
+.subscribe .all-button:hover{
+    box-shadow: 0px 7px 15px 1px gray;
+}
+
+#footer{
+    padding: 30px 0px 10px 0px;
+    background-color: #282531;
+    color: white;
+}
+#footer ul li{
+    list-style-type: none;
+}
+#footer ul li a{
+    color: white;
+}
+#footer p{
+    padding: 30px;
+}
